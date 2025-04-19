@@ -1,0 +1,1 @@
+bingrewards用の検索自動化
